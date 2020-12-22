@@ -1,2 +1,2 @@
-# snumentalhealth_20_2
+# 서울대학교 학심단 2020년 2학기 온라인 프로젝트 <몽실몽실 나의 구름 이야기>
 snumentalhealth_20_2
