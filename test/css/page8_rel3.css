@@ -1,0 +1,166 @@
+.rel3_text1 {
+    margin: 0px auto;
+    text-align: center;
+    font-size: 18px;
+    width: 260px;
+    height: auto;
+    left: 30px;
+    top: 100px;
+    position:absolute;
+
+    opacity: 0;
+
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-fill-mode: forwards;
+}
+
+.rel3_text2 {
+    margin: 0px auto;
+    text-align: center;
+    font-size: 18px;
+    width: 260px;
+    height: auto;
+    left: 30px;
+    top: 130px;
+    position:absolute;
+
+    opacity: 0;
+    
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 1s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 1s;
+    -moz-animation-fill-mode: forwards;
+}
+
+#Rel3s1 {
+    margin-left: auto;
+    margin-right: auto;
+    left: 40px;
+    top: 191px;
+    position: absolute;
+}
+
+#Rel3s2 {
+    margin-left: auto;
+    margin-right: auto;
+    left: 40px;
+    top: 263px;
+    position: absolute;
+}
+
+#Rel3s3 {
+    margin-left: auto;
+    margin-right: auto;
+    left: 40px;
+    top: 335px;
+    position: absolute;
+}
+
+#Rel3s4 {
+    margin-left: auto;
+    margin-right: auto;
+    left: 40px;
+    top: 407px;
+    position: absolute;
+}
+
+#Page8_Candy1 {
+    left: 10px;
+    top: 142px;
+    z-index: 2;
+    position: absolute;
+    transform: rotate(-30deg);
+    -ms-transform: rotate(-30deg);
+    -webkit-transform: rotate(-30deg);
+}
+
+#Page8_Candy2 {
+    left: 210px;
+    top: 155px;
+    z-index: 2;
+    position: absolute;
+    transform: rotate(30deg);
+    -ms-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+}
+
+#Page8_Candy3 {
+    left: 222px;
+    top: 403px;
+    z-index: 2;
+    position: absolute;
+    transform: rotate(-30deg);
+    -ms-transform: rotate(-30deg);
+    -webkit-transform: rotate(-30deg);
+}
+
+#Page8_Star1 {
+    left: 240px;
+    top: 188px;
+    z-index: 2;
+    position: absolute;
+}
+
+#Page8_Star2 {
+    left: 0px;
+    top: 428px;
+    z-index: 2;
+    position: absolute;
+}
+
+#Rel3s1, #Rel3s2, #Rel3s3, #Rel3s4 {
+    opacity: 0;
+    
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 2s;
+    -moz-animation-fill-mode: forwards;
+}
+
+#Page8_Candy1, #Page8_Candy2, #Page8_Candy3, #Page8_Star1, #Page8_Star2 {
+    opacity: 0;
+    
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-delay: 2.5s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 2.5s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 2.5s;
+    -moz-animation-fill-mode: forwards;
+}

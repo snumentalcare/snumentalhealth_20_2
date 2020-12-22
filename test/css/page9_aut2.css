@@ -1,0 +1,211 @@
+.aut2_text1 {
+    margin: 0px auto;
+    text-align: center;
+    font-size: 17px;
+    width: 260px;
+    height: auto;
+    left: 30px;
+    top: 100px;
+    position:absolute;
+
+    opacity: 0;
+
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-fill-mode: forwards;
+}
+
+.aut2_text2 {
+    margin: 0px auto;
+    text-align: center;
+    font-size: 17px;
+    width: 260px;
+    height: auto;
+    left: 30px;
+    top: 127px;
+    position:absolute;
+
+    opacity: 0;
+    
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-delay: 0.5s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 0.5s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 0.5s;
+    -moz-animation-fill-mode: forwards;
+}
+
+.aut2_text3 {
+    margin: 0px auto;
+    text-align: center;
+    font-size: 17px;
+    width: 260px;
+    height: auto;
+    left: 30px;
+    top: 193px;
+    position:absolute;
+
+    opacity: 0;
+    
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 1s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 1s;
+    -moz-animation-fill-mode: forwards;
+}
+
+.aut2_text4 {
+    margin: 0px auto;
+    text-align: center;
+    font-size: 17px;
+    width: 260px;
+    height: auto;
+    left: 30px;
+    top: 324px;
+    position:absolute;
+
+    opacity: 0;
+    
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-delay: 2s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 2s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 2s;
+    -moz-animation-fill-mode: forwards;
+}
+
+#Page9_Cloud {
+    left: 42px;
+    top: 364px;
+    z-index: 2;
+    position: absolute;
+
+    opacity: 0;
+    
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 1s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 1s;
+    -moz-animation-fill-mode: forwards;
+}
+
+#Page9_Two {
+    left: 42px;
+    top: 364px;
+    z-index: 3;
+    position: absolute;
+
+    opacity: 0;
+    
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-delay: 1.5s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 1.5s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 1.5s;
+    -moz-animation-fill-mode: forwards;
+}
+
+#Aut2s1 {
+    margin-left: auto;
+    margin-right: auto;
+    left: 12px;
+    top: 470px;
+    position: absolute;
+    z-index: 4;
+}
+
+#Aut2s2 {
+    margin-left: auto;
+    margin-right: auto;
+    left: 76px;
+    top: 469px;
+    position: absolute;
+    z-index: 4;
+}
+
+#Aut2s3 {
+    margin-left: auto;
+    margin-right: auto;
+    left: 145px;
+    top: 469px;
+    position: absolute;
+    z-index: 4;
+}
+
+#Aut2s4 {
+    margin-left: auto;
+    margin-right: auto;
+    left: 210px;
+    top: 469px;
+    position: absolute;
+    z-index: 4;
+}
+
+#Aut2s1, #Aut2s2, #Aut2s3, #Aut2s4 {
+    opacity: 0;
+    
+    animation-name: fadein;
+    animation-duration: 1s;
+    animation-delay: 3s;
+    animation-fill-mode: forwards;
+
+    -webkit-animation-name: fadein;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 3s;
+    -webkit-animation-fill-mode: forwards;
+
+    -moz-animation-name: fadein;
+    -moz-animation-duration: 1s;
+    -moz-animation-delay: 3s;
+    -moz-animation-fill-mode: forwards;
+}

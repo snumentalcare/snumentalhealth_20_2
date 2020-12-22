@@ -1,0 +1,149 @@
+* {box-sizing: border-box}
+
+#header {
+    margin: 0px auto;
+    width: 320px;
+    height: 50px;
+}
+
+body {font-family: 'Gamja Flower', cursive; margin:0; color: #48656D;}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.testQ {
+  width: 320px;
+  height: 790px;
+  position: relative;
+  margin: auto;
+  background-color: #CADDE6;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+  
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+  
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+  
+/* Caption text */
+.text {
+  color: #000000;
+  font-size: 18px;
+  padding: 0px;
+  top: 470px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+  
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+#navigator {
+  width: 320px;
+  height: auto;
+  margin: 0px auto;
+  background-color: #CADDE6;
+}
+
+/*Common Object*/
+.selection {
+  text-align: center;
+  width: 240px;
+  height: 48px;
+  border-radius: 50px;
+  background-color: #ffffffa2;
+  color: #48656D;
+  font-family: 'Gamja Flower', cursive;
+  font-size: 15px;
+  z-index: 1;
+}
+
+.selection_b {
+  text-align: center;
+  width: 240px;
+  height: 60px;
+  border-radius: 50px;
+  background-color: #ffffffa2;
+  color: #48656D;
+  font-family: 'Gamja Flower', cursive;
+  font-size: 15px;
+  z-index: 1;
+}
+
+.selection_g {
+  text-align: center;
+  width: 240px;
+  height: 72px;
+  border-radius: 50px;
+  background-color: #ffffffa2;
+  color: #48656D;
+  font-family: 'Gamja Flower', cursive;
+  z-index: 1;
+}
+
+.nextbutton {
+  text-align: center;
+  width: 120px;
+  height: 42px;
+  border: 2px dashed #6b97a3;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #000000;
+  font-family: 'Gamja Flower', cursive;
+  font-size: 16px;
+}
+
+.selection:hover {background-color: #8d999c;}
+.selection:active {background-color: #8d999c;}
+.selection_b:hover {background-color: #8d999c;}
+.selection_b:active {background-color: #8d999c;}
+.selection_g:hover {background-color: #8d999c;}
+.selection_g:active {background-color: #8d999c;}
+.nextbutton:hover {background-color: #d7e8ec;}
+.nextbutton:active {background-color: #d7e8ec;}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+  
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+#footer {
+    margin: 0px auto;
+    width: 320px;
+    height: 60px;
+    text-align: center;
+    left: 45px;
+    top: 844px;
+}
